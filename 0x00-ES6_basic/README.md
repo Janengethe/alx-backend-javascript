@@ -9,3 +9,4 @@
 * [Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4)
 
 
+* To tun the script `npm run dev file.js`
