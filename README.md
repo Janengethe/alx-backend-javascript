@@ -28,3 +28,7 @@ $ npm -v
 
 * Finally…
 Don’t forget to run `npm install` from the terminal of your project folder to install all necessary project dependencies.
+
+### File tests
+* Use `npx eslint <filename>` to fix lint.
+* Run `npm run dev <filename>` for the scripts.
